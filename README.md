@@ -79,13 +79,12 @@ Disclaimers are listed on the [DISCLAIMERS.md](./DISCLAIMERS.md) file.
 
 ## Project Contributors
 
-### Developers
-- [@mzrtamp](https://github.com/mzrtamp)
-- [@noxyzm](https://github.com/noxyzm)
+### Maintainers
+- [@stegripe Developers](https://github.com/stegripe)
 - [@PixlGalaxy](https://github.com/PixlGalaxy)
 
 ### Translators
-- [Developers](#developers) (en, id)
+- [Maintainers](#maintainers) (en, id)
 - [@21Z](https://github.com/21Z) (en)
 - [@lxndr-rl](https://github.com/lxndr-rl) (es)
 - [@MoustacheOff](https://github.com/MoustacheOff) (fr)
@@ -97,4 +96,4 @@ Disclaimers are listed on the [DISCLAIMERS.md](./DISCLAIMERS.md) file.
 - [@Fyphen1223](https://github.com/Fyphen1223) (ja)
 - [@OsmanTunahan](https://github.com/OsmanTunahan) (tr)
 
-> © 2024 Stegripe Development
+> © 2025 Stegripe Development
